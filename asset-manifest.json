@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/volleyball_rules/static/css/main.2cce8147.chunk.css",
+    "main.js": "/volleyball_rules/static/js/main.fdc554c9.chunk.js",
+    "main.js.map": "/volleyball_rules/static/js/main.fdc554c9.chunk.js.map",
+    "runtime~main.js": "/volleyball_rules/static/js/runtime~main.a3943d35.js",
+    "runtime~main.js.map": "/volleyball_rules/static/js/runtime~main.a3943d35.js.map",
+    "static/js/2.e323c109.chunk.js": "/volleyball_rules/static/js/2.e323c109.chunk.js",
+    "static/js/2.e323c109.chunk.js.map": "/volleyball_rules/static/js/2.e323c109.chunk.js.map",
+    "index.html": "/volleyball_rules/index.html",
+    "precache-manifest.52c33fa2a9bc9e0100874fb8044b62ec.js": "/volleyball_rules/precache-manifest.52c33fa2a9bc9e0100874fb8044b62ec.js",
+    "service-worker.js": "/volleyball_rules/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/volleyball_rules/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/volleyball_rules/static/media/logo.5d5d9eef.svg"
+  }
+}
